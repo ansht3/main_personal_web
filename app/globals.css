@@ -17,6 +17,7 @@
 }
 
 html {
+  min-height: 100vh;
   background: var(--bg);
   color: var(--fg);
   transition: background 0.25s ease, color 0.25s ease;
@@ -24,8 +25,7 @@ html {
 
 body {
   font-family: 'Newsreader', Georgia, serif;
-  background: var(--bg);
-  color: var(--fg);
+  background: transparent;
   margin: 0;
   padding: 0;
 }
