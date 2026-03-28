@@ -1,0 +1,4 @@
+Type: CNAME
+Name: www
+Target: 18cda96b62f4b9c1.vercel-dns-017.com.
+TTL: default
