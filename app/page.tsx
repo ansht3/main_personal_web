@@ -139,8 +139,16 @@ export default function Home() {
             color: "var(--fg)",
           }}
         >
-          I'm big into sports (playing and watching), music, travel, cooking,
-          and photography. Also in intramural volleyball on campus!
+          I'm big into sports (playing and watching), music, traveling, cooking,
+          and photography. I also write occasional blog posts on{" "}
+          <a
+            href="https://medium.com/@atandon149"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Medium
+          </a>
+          {""}!
         </p>
       </section>
 
